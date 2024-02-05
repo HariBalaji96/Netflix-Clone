@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+<h1 align="left">Netflix Clone</h1>
+<b align="left">Online Household Service provider</b>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="left">Project Overview</h2>
 
-## Available Scripts
+###
 
-In the project directory, you can run:
+<p align="left">
+  <ul>
+    <li>The <b>Zappy Home</b> is a platform designed to make it easy for homeowners to find and book reliable household services like floor cleaning, painting, etc.</li>
+    <li>It has <b>three major modules</b> separately for <b>client</b>, <b>worker</b>, and <b>admin</b>.</li>
+    <li>With the help of the <b>client module</b>, clients can book services, and in the <b>worker module</b>, workers can access the tasks that are assigned to them.</li>
+    <li>In the <b>admin module</b>, admins can access backend functionalities such as managing services and managing workers.</li>
+    <li><b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> were used in the frontend development of this web application.</li>
+    <li>This web application's backend is built with <b>PHP</b> and <b>MySQL</b>.</li>
+  </ul>
+</p>
 
-### `npm start`
+###
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2 align="left">I code with</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+###
 
-### `npm test`
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+###
 
-### `npm run build`
+<h2 align="left">Project Screenshots</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="left">
+  <h3 align="left">Login Page</h3>
+<!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/3401e931-124a-4fda-b998-2992e775eb70" height="300" alt="login page"  /> -->
+  
+  ###
+  
+  <h3 align="left">User Registration Page</h3>
+<!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/6aa6100c-8660-49b0-8c17-deb05fd7d748" height="300" alt="user registration page"  /> -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ###
+  
+  <h3 align="left">Service Listing Page</h3>
+<!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/2c647e4a-c62d-4caf-b77e-352c63111320" height="300" alt="Service Listing Page"> -->
 
-### `npm run eject`
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+###
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2 align="left">Future Enhancement</h2>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+###
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="left">
+  In future, Zappy Home web application is likely to continue advancing in terms of user 
+experience, mobile functionality, payment systems, IoT integration, reviews, and service 
+category expansion. These advancements could enhance the overall convenience, efficiency, 
+and effectiveness of the Zappy Home.
+</p>
