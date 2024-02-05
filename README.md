@@ -1,5 +1,5 @@
 <h1 align="left">Netflix Clone</h1>
-<b align="left">Online Household Service provider</b>
+<b align="left">Enhanced user interface for Netflix</b>
 
 <h2 align="left">Project Overview</h2>
 
@@ -7,12 +7,9 @@
 
 <p align="left">
   <ul>
-    <li>The <b>Zappy Home</b> is a platform designed to make it easy for homeowners to find and book reliable household services like floor cleaning, painting, etc.</li>
-    <li>It has <b>three major modules</b> separately for <b>client</b>, <b>worker</b>, and <b>admin</b>.</li>
-    <li>With the help of the <b>client module</b>, clients can book services, and in the <b>worker module</b>, workers can access the tasks that are assigned to them.</li>
-    <li>In the <b>admin module</b>, admins can access backend functionalities such as managing services and managing workers.</li>
-    <li><b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> were used in the frontend development of this web application.</li>
-    <li>This web application's backend is built with <b>PHP</b> and <b>MySQL</b>.</li>
+    <li>This is a copy of the Netflix UI, which is good and offers a better user experience.</li>
+    <li><b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>ReactJS</b> and <b>TailwindCSS</b> were used in the frontend development of this web application.</li>
+    <li>It uses <b>TMDb API</b> as a backend for this application.</li>
   </ul>
 </p>
 
@@ -32,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Tmdb.new.logo.svg" height="40" alt="tmdb logo"  />
 </div>
 
 ###
@@ -55,16 +54,3 @@
 <!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/2c647e4a-c62d-4caf-b77e-352c63111320" height="300" alt="Service Listing Page"> -->
 
 </div>
-
-###
-
-<h2 align="left">Future Enhancement</h2>
-
-###
-
-<p align="left">
-  In future, Zappy Home web application is likely to continue advancing in terms of user 
-experience, mobile functionality, payment systems, IoT integration, reviews, and service 
-category expansion. These advancements could enhance the overall convenience, efficiency, 
-and effectiveness of the Zappy Home.
-</p>
