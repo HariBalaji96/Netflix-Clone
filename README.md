@@ -51,7 +51,9 @@
 
   ###
   
-  <h3 align="left">Service Listing Page</h3>
-<!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/2c647e4a-c62d-4caf-b77e-352c63111320" height="300" alt="Service Listing Page"> -->
+  <h3 align="left">Movies Listing Page</h3>
+  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/ffa57b35-f322-4407-b722-f4e7d1051169" height="300" alt="Movies Listing Page">
+
+
 
 </div>
