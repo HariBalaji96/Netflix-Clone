@@ -40,8 +40,9 @@
 ###
 
 <div align="left">
-  <h3 align="left">Login Page</h3>
-<!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/3401e931-124a-4fda-b998-2992e775eb70" height="300" alt="login page"  /> -->
+  <h3 align="left">Main Component</h3>
+  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/99265c69-c766-477d-8e0d-fdb4eac99325" height="300" alt="Main Component"  />
+
   
   ###
   
