@@ -46,8 +46,8 @@
   
   ###
   
-  <h3 align="left">User Registration Page</h3>
-<!--   <img src="https://github.com/HariBalaji96/Zappy-Home/assets/110282557/6aa6100c-8660-49b0-8c17-deb05fd7d748" height="300" alt="user registration page"  /> -->
+  <h3 align="left">Row Component</h3>
+  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/18fd8b67-fe93-454f-ab65-5ec70703dab1" height="300" alt="Row Component"  />
 
   ###
   
