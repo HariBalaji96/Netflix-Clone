@@ -57,8 +57,8 @@
   ###
   
   <h3 align="left">Mobile View</h3>
-  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/91de64d8-790e-4c87-97bc-3fd19c6da17d" height="500" alt="Mobile View">
-  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/312a4845-f09f-4375-bee0-ae74abd38bda" height="500" alt="Mobile View">
+  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/91de64d8-790e-4c87-97bc-3fd19c6da17d" height="700" alt="Mobile View">
+  <img src="https://github.com/HariBalaji96/Netflix-Clone/assets/110282557/312a4845-f09f-4375-bee0-ae74abd38bda" height="700" alt="Mobile View">
 
 
 </div>
